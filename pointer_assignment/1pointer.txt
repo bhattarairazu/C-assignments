@@ -1,0 +1,25 @@
+
+ 1. What is pointer and explain its applications. Write a program that uses pointers to copy an array of double.
+
+->A pointer is a variable that contains a memory address of variable. Since these memory addresses are the
+ locations in the computer memory where program instructions and data are stored, pointers can be used to access
+  and manipulate data stored in the memory. Pointers are undoubtedly one of the most distinct features of C languages.
+  It has added power and flexibility to the language tool and handy to use once they are mastered.
+
+There is various application of pointer. Some of them are listed below: -
+
+1.	Pointer is widely used in Dynamic Memory Allocation.
+
+2.	Pointer can be used to pass information back and forth between a function and its reference point.
+
+3.	Pointers provide an alternative way to access individual array elements.
+
+4.	Pointers increase the execution speed as they refer address.
+
+5.	Pointers are used to create complex data structures such as linked list, trees, graphs and so on.
+
+6.	Pointer reduces length and complexity of program.
+
+7.	The use of pointer arrays to character strings results in saving of data storage space in memory.
+
+8.	Pointers are more efficient in handling arrays and data tables.
